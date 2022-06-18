@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+wrapper/dists/gradle-7.3.3-all/4295vidhdd9hd3gbjyw1xqxpo/gradle-7.3.3-all.zip filter=lfs diff=lfs merge=lfs -text
